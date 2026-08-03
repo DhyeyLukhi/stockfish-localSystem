@@ -24,7 +24,7 @@ import math
 # --------------------------------------------------------------------------
 
 STOCKFISH_PATH = "/usr/games/stockfish"
-BOOK_PATH = "/home/dhyey/codes/chessengine/book.bin"
+BOOK_PATH = "~/books/book.bin"
 
 # LIMIT_MODE controls how each position is searched:
 #   "depth" — search to a fixed ply depth (DEPTH below). Stronger/more

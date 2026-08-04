@@ -7,17 +7,14 @@ import os
 import math
 
 # --- Engine version note -------------------------------------------------
-# Chess.com does not run a single fixed engine forever — Game Review and the
+# Chess.com does not run a single fixed engine forever. Game Review and the
 # free-standing Analysis board have historically used different Stockfish
 # builds, and Game Review is also architected around a fixed NODE budget per
 # move rather than a fixed DEPTH (see LIMIT_MODE below). This means you
-# cannot get bit-for-bit matching numbers just by swapping binaries — engine
+# cannot get bit-for-bit matching numbers just by swapping binaries -- engine
 # disagreement between versions (and even between two runs of the same
-# version at different node counts) is expected, not a bug. What we CAN do:
-# know exactly which build is running (printed at startup below) and choose
-# a search-limiting strategy that mirrors chess.com's rationale.
+# version at different node counts) is expected, not a bug.
 #
-# To point this at a specific official build instead of whatever `apt`
 # installed: download the exact release binary from
 # https://github.com/official-stockfish/Stockfish/releases (avoid third
 # -party mirrors) and update STOCKFISH_PATH below.

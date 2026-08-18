@@ -1,22 +1,19 @@
 [Event "Live Chess"]
 [Site "Chess.com"]
-[Date "2026.08.01"]
+[Date "2026.08.16"]
 [Round "?"]
 [White "Dhyey_009"]
-[Black "nirsofer123"]
+[Black "torrexxx5"]
 [Result "1-0"]
 [TimeControl "600"]
-[WhiteElo "1049"]
-[BlackElo "1044"]
-[Termination "Dhyey_009 won by resignation"]
-[ECO "A40"]
-[EndTime "16:31:51 GMT+0000"]
-[Link "https://www.chess.com/game/live/172388174952?username=dhyey_009&move=12"]
+[WhiteElo "1018"]
+[BlackElo "993"]
+[Termination "Dhyey_009 won by checkmate"]
+[Link "https://www.chess.com/game/173071606100"]
 
-1. d4 e6 2. Bf4 Bd6 3. Bg3 Bxg3 4. hxg3 Nf6 5. Nf3 O-O 6. e3 h6 7. c4 b6 8. Bd3
-Ba6 9. Nbd2 Nc6 10. Qc2 Nb4 11. Qb3 Nxd3+ 12. Qxd3 d5 13. O-O-O dxc4 14. Nxc4
-Bxc4 15. Qxc4 Rc8 16. Kb1 Qe7 17. Ne5 Ne4 18. Rhf1 c5 19. dxc5 Rxc5 20. Qxe4 f6
-21. Ng6 Qf7 22. Nxf8 Qxf8 23. Qxe6+ Kh7 24. Rh1 Rg5 25. Qe4+ g6 26. Qh4 Rh5 27.
-Qf4 Rxh1 28. Rxh1 h5 29. Qc7+ Kh6 30. Qxa7 Qe8 31. Qxb6 Qe4+ 32. Ka1 Qxg2 33.
-Rb1 Qxf2 34. a4 Qxg3 35. a5 h4 36. a6 h3 37. a7 h2 38. a8=Q Kg5 39. Qh1 f5 40.
-Qd8+ Kh5 41. Qh8+ Kg5 42. Q8xh2 1-0
+1. d4 Nf6 2. Bf4 d5 3. e3 Nc6 4. Nf3 h6 5. Bd3 Bg4 6. h3 Bxf3 7. gxf3 Qd7 8. Nd2
+e6 9. Qe2 Bb4 10. O-O-O Qe7 11. Nb3 b6 12. Bb5 Qd7 13. c3 Bd6 14. Bg3 O-O 15.
+Bxd6 Qxd6 16. f4 a6 17. Bd3 a5 18. Rhg1 a4 19. Nd2 Kh8 20. f5 Rfe8 21. fxe6 Qxe6
+22. Rde1 Qxh3 23. Rh1 Qe6 24. Nf3 Rab8 25. Bb5 a3 26. b3 Ra8 27. Ne5 Nxe5 28.
+Bxe8 Rxe8 29. dxe5 Qxe5 30. Kc2 Ne4 31. Rh5 Qf6 32. Qd3 Qxf2+ 33. Re2 Qf3 34.
+Reh2 Nc5 35. Qd4 Rxe3 36. Rxh6+ Kg8 37. Rh8# 1-0
